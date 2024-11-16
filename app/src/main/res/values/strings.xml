@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASM</string>
+    <string name="Boldtext"><u>Signin</u></string>
+    <string name="Boldtext1"><u>Login</u></string>
+</resources>
